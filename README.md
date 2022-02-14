@@ -6,3 +6,5 @@ A basic port of the XAMARIN FORMS XUZZLE Number Game to .NET MAUI.
 I wrote about it over here https://medium.com/@fernlancer/
 
 Click on the Star above if you find this useful.
+
+![Screenshot](Screenshots/MAUIZZLE.PNG)
